@@ -9,10 +9,10 @@ const CONFIG = {
 
   // Contact: leave '' to hide. Email = address only; others = full links.
   contact: {
-    email: "",       // e.g. "harsh@example.com"
-    instagram: "",   // e.g. "https://instagram.com/yourhandle"
-    youtube: "",     // e.g. "https://youtube.com/@yourchannel"
-    linkedin: ""     // e.g. "https://linkedin.com/in/yourname"
+    email: "harshkhobra007@gmail.com",       // e.g. "harsh@example.com"
+    instagram: "•https://www.instagram.com/hashgz_editz/",   // e.g. "https://instagram.com/yourhandle"
+    youtube: "https://www.youtube.com/@HashGZ",     // e.g. "https://youtube.com/@yourchannel"
+    linkedin: "https://www.linkedin.com/in/harsh-khobra-1284a2242"     // e.g. "https://linkedin.com/in/yourname"
   },
 
   // Projects. Files live in /videos and /thumbs. Replace titles/descriptions with your own wording.
